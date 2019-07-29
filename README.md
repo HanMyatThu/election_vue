@@ -1,6 +1,6 @@
-# Vue Crash Course (TodoList)
+# Vue Assignment Project( Vue2)
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
+This is the code for assginment for phandeeyar. using Vue2.
 
 ## Quick Start
 
@@ -10,7 +10,3 @@ npm install
 
 # Serve on localhost:8080
 npm run serve
-
-# Build for production
-npm run build
-```
